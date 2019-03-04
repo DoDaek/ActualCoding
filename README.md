@@ -1,3 +1,3 @@
 # ActualCoding
 
-hi I'm Lee Jeong Jun
+hi I'm Lee Jeong
